@@ -17,6 +17,7 @@ This is an educational hardware project focused on:
 - Interfaces with the ASIC using SPI/control signals
 - Routes extremely high current safely to the mining chip
 - Is designed to be actively cooled using external heatsinks/fans
+- Mines bitcoin with the firmware uploaded
 The focus of this project is hardware design and manufacturability.
 
 ## Why I Built This
